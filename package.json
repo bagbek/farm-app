@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Simple app for node js development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagbek/farm-app.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "templating",
+    "js"
+  ],
+  "author": "Bayram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagbek/farm-app/issues"
+  },
+  "homepage": "https://github.com/bagbek/farm-app#readme"
+}
